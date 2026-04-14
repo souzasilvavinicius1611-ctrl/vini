@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    color: beige;
+     font-family: "Bai Jamjuree", sans-serif;
+     justify-content: center;
+    align-items: center;
+
+}
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
